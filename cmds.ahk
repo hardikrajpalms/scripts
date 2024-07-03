@@ -1,4 +1,5 @@
-﻿; Always on Top
+﻿;+ is shift, ! is alt, ^ is ctrl
+; Always on Top, because I don't like the blue border in PowerToys'solution.
 +!SPACE:: Winset, Alwaysontop, , A ; alt + space
 Return
 ;gbash shortcut

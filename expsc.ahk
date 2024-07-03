@@ -1,12 +1,15 @@
-﻿+!c::
+﻿;+ is shift, ! is alt, ^ is ctrl
+;to launch my git dir
++!c::
 Run, C:\git
 Return
 
-;plus is shift, ! is alt
+;cheatsheet shortcut
 +!s::
 Run, C:\git\scripts\css-flexbox-cheatsheet.jpg
 Return
 
+;to launch my downloads dir
 !j::
 Run, C:\Users\hardikrajpal\Downloads
 Return
