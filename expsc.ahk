@@ -43,3 +43,12 @@ Return
 ::hrhome::
 SendRaw, 304, Sai Kishore Residency, Road No. 4, Sri Balaji Nagar Colony, Manikonda, Puppalguda, Hyderabad - 500089
 Return
+
+
+::ysl::
+Send, yarn start --to loop-app {Enter}
+Return
+
+::ytok::
+Send, yarn refresh-vsts-token {Enter}
+Return
