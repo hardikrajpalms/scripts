@@ -9,6 +9,16 @@ Return
 Run, C:\git\scripts\css-flexbox-cheatsheet.jpg
 Return
 
+;delete .npmrc in C:\Users\hardikrajpal, wait and run ytok
+^+!t::
+{
+Sleep 1000
+FileDelete, C:\Users\hardikrajpal\.npmrc
+Sleep 1000
+Send, yarn refresh-vsts-token {Enter}
+Return
+}
+
 ;to launch my downloads dir
 !j::
 Run, C:\Users\hardikrajpal\Downloads
